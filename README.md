@@ -9,4 +9,4 @@
 [About Me](about.md)
 
 ##Projects
-- DevOps Lab 1
+- Git Basics 
